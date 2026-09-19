@@ -1,0 +1,6 @@
+{
+  "name": "DriveDocs",
+  "description": "Document and project specification workspace with Firebase Authentication, Firestore storage, Microsoft OneDrive OAuth 2.0 integration, and multi-provider AI Connections with requirement summarization and test case generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
